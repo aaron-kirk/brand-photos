@@ -1,7 +1,7 @@
 # brand-photos
 A Photoshop script I quickly wrote in JS to overlay and center an image onto a set of input images and save them. This was made with the intent of being used to automatically watermark large volumes of photos.
 
-Requires Adobe Photoshop
+Requires Adobe Photoshop.
 
 To use, download the repository, place all images you want branded in the "Images" folder, and place one image to be overlayed in the "Watermark" folder. Then, open Adobe Photoshop, and run "brand-photos.js" as a script (File > Scripts). The resulting images will be saved separately in the "Output" folder.
 
